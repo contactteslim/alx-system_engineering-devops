@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown Betty 3-new_owner
+sudo chown Betty hello
