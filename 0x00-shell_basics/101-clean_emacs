@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /home/to/dir/*
+rm  /home/to/dir/*
